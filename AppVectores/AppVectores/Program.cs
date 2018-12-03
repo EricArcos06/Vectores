@@ -26,6 +26,7 @@ namespace AppVectores
             x[5] = 1;
             x[6] = -9;
             x[7] = 14;
+            //////////
             //imprimir el vector
             Console.WriteLine("\nELEMENTOS DEL VECTOR\n=============\n");
             for (int i = 0; i < x.Length; i++)
