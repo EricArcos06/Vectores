@@ -68,7 +68,7 @@ namespace AppVectores
                     vec[i] = Int32.Parse(Console.ReadLine());
 
                 }
-
+				//
 
             }
 
