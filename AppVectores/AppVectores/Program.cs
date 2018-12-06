@@ -13,6 +13,7 @@ namespace AppVectores
             Console.WriteLine("Control de Versiones");
 
             vectorInicializar();
+			TareaVectores();
             Console.ReadKey();
         }
         public static void vectorInicializar()
@@ -109,3 +110,5 @@ namespace AppVectores
 
         }
     }
+
+}
